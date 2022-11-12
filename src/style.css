@@ -58,20 +58,3 @@ li:first-letter {
   font-size: 20px;
   top: -34px;
 }
-.weekday {
-  margin-left: 20px;
-  margin-right: 20px;
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  color: #656565;
-}
-.dayemoji {
-  font-size: 24px;
-}
-.daytemp {
-  font-size: 14px;
-}
-.search-form {
-  margin-bottom: 20px;
-}
